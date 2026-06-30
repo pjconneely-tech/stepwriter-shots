@@ -86,16 +86,12 @@ a:hover {
   text-decoration: none;
 }
 
-.brand-mark {
-  width: 32px;
-  height: 32px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 9px;
-  background: var(--primary);
-  color: #fff;
-  font-size: 17px;
+.brand-icon {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  flex: 0 0 auto;
+  box-shadow: 0 8px 20px rgba(20, 102, 232, 0.18);
 }
 
 .nav-links {
