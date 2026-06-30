@@ -392,6 +392,14 @@ p {
     width: 100%;
     overflow-x: auto;
     padding-bottom: 4px;
+    gap: 0.6rem;
+  }
+
+  .nav-links .nav-cta {
+    border-radius: 14px;
+    padding: 0.7rem 1rem;
+    white-space: nowrap;
+    min-width: max-content;
   }
 
   .section {
