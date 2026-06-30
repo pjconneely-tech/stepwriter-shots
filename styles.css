@@ -87,11 +87,12 @@ a:hover {
 }
 
 .brand-icon {
-  width: 34px;
-  height: 34px;
-  border-radius: 8px;
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  display: block;
   flex: 0 0 auto;
-  box-shadow: 0 8px 20px rgba(20, 102, 232, 0.18);
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.22);
 }
 
 .nav-links {
